@@ -1,0 +1,12 @@
+.menu li{
+  list-style-type: none;
+  display: inline;
+  margin-left: 12px;
+}
+
+.texto{
+  max-width: 86%;
+  margin-left: auto;
+  margin-top: auto;
+  display: block;
+}
